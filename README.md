@@ -1,2 +1,2 @@
 # Designer-Portfolio
-In this Website I designed a portfolio for learing my Css and Web Typography.
+In this Website I designed a portfolio for learing  Css and Web Typography.
